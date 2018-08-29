@@ -12,7 +12,9 @@
   <img src="output_16_0.png">  
 
 </div>
-要爬取得字段
+
+
+要爬取得字段  
 - 1.标题 title  
 title=html.xpath('.//li/div[@class="info-panel"]/h2/a/@title')[i].replace(","," ")  
 - 2.户型 room_type  
