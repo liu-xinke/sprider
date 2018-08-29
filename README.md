@@ -10,7 +10,6 @@
 
 <div align="center">
   <img src="output_16_0.png" height=500px>  
-
 </div>
 
 
@@ -33,3 +32,10 @@ tatal_floor=re.findall('(\d+)',floor)[0]
 price_pre=html.xpath('//div[@class="price-pre"]/text()')[i][:-2]
 - 9.具体位置 detail_place  
 detail_place=re.findall("(\w+)租房",html.xpath('//div[@class="con"]/a/text()')[i])[0]
+
+<div align="center">
+  <img src="output_17_0.png">
+  <img src="output_20_0.png">
+  <img src="output_26_0.png">
+  <img src="output_28_0.png">
+</div>
