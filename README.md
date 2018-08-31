@@ -1,4 +1,4 @@
-# 具体数据文档请参考 链家.ipnb 文件
+具体数据文档请参考 链家.ipynb 文件
 # sprider
 
 <div align="center">
